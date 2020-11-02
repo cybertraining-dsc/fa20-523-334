@@ -1,4 +1,7 @@
 # Team
+
+- [ ] please use our format
+
 This is a solo project done by Matthew Cummings.
 
 # Abstract

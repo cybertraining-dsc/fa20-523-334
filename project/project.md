@@ -3,14 +3,31 @@
 - [ ] please use our format
 - [ ] please improve structure of document
 - [ ] what is progress?
+- [ ] refernces missing
+- [ ] background missing
+- [ ] dataset descriptionmissing
+- [ ] use numbered sections
 
-Matthew Cummings.
+Matthew Cummings, [fa20-523-334](https://github.com/cybertraining-dsc/fa20-523-334/), [Edit](https://github.com/cybertraining-dsc/fa20-523-334/blob/master/project/project.md)
+
+{{% pageinfo %}}
 
 ## Abstract
 
 This project will be looking at the change of internet capabilities throughout the world. We will be looking into each
 countries progression of internet and mobile phone usage. Analyzing the differences between continents and countries. We will also be looking at each country’s economic ranking and seeing the
 differences between economic levels. This project will be looking at how the world has progressed into the digital world.
+
+Contents
+
+{{< table_of_contents >}}
+
+{{% /pageinfo %}}
+
+**Keywords:** Missing 
+
+
+
 
 ## Data
 

@@ -9,6 +9,8 @@
 - [ ] use numbered sections
 
 Matthew Cummings, [fa20-523-334](https://github.com/cybertraining-dsc/fa20-523-334/), [Edit](https://github.com/cybertraining-dsc/fa20-523-334/blob/main/project/project.md)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
+Status: in progress
 
 {{% pageinfo %}}
 

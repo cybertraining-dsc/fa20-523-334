@@ -29,13 +29,13 @@ Projecting the future growth and seeing what it might look like in 5 years.
 
 #Plans
 
-##coding
+##Coding
 Need to understand the data more and start analyzing it. This will be the hardest area as I am experienced with coding but need to get back into it.
 Will need to make visulizations for the project.
 Need to make it so it can read all the data easily and without changing variables
 Need to understand the statistics
 
-##report
+##Report
 Clean up the report and add images from visulizations. 
 writing in markdown has its issues but is easily to learn after going through it after awhile.
 Need to make the report an actual report with the langauge of a report
@@ -43,3 +43,13 @@ Need to make the report an actual report with the langauge of a report
 #TA Plans
 Already met with TA once will meet with them again for help on coding and report langauge.
 
+### Sources:
+
+https://www.webfx.com/internet-real-time/
+https://www.redcentricplc.com/resources/byte-size-infographic/
+https://www.britannica.com/technology/TCP-IP
+https://www.history.com/news/who-invented-the-internet#:~:text=ARPANET%20adopted%20TCP%2FIP%20on,invented%20the%20World%20Wide%20Web.
+https://www.internetsociety.org/internet/history-internet/brief-history-internet/
+https://www.sciencefocus.com/future-technology/how-much-data-is-on-the-internet/
+https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/
+https://www.bernardmarr.com/default.asp?contentID=1846

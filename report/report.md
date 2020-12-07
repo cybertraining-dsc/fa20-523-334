@@ -57,7 +57,7 @@ Using the datasets [^15] we can analyze how this transition took place throughou
 
 Looking at the 1990’s data we see that America is at .79% of the population having internet while the entire world as a whole is less than .0495%. The only countries who are close to America is Norway, Canada, Sweden, Finland, and Australia. These countries populations are all less than American’s percentage with Norway the closest at .7%. **Figure 2** shows these percentages and how drastic these differences are with some countries having 0% of their entire population having access to the internet [^15]. How is America and these five countries populations have so many more users using the internet compared to the rest of the world?
 
-![World Population in 1990](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/World1990.png)
+![World Population in 1990](https://github.com/cybertraining-dsc/fa20-523-334/raw/main/report/images/World1990.png)
 
 **Figure 2:** This figure shows the 1990’s current population % of people accessing the internet [^17].
 
@@ -89,15 +89,15 @@ It started very early with Africa getting the first computer in 1980’s. This c
 
 Looking at the recent data for World Data Bank we see that African countries have been having a comeback with the amount of people using the internet. Currently Africa has seen a large spike in people using the internet. This can be because of all these programs that have helped start its program but it is can also be from two-thirds of the population having phones that can connect to the internet. Africa still has a problem with less than 50% of its entire population having access to internet and a computer. There are still a lot of struggling countries like Niger that only have 5.3% of it is population that use and connect to the internet. Within this day and age having access to the internet is almost critical to survive and be apart of the world. With only 5.3% of their population having internet they are still struggling to have access for everyone. Comparing this to current America with 83% of the population having internet Africa is still far behind the curve of first world countries. This lack of internet has created an opportunity of some people to help or take advantage of Africa’s lack of infrastructure. China’s Company Huawei has agreed to build the first ever 5G network within Africa. This network will help the current population of phone users to connect to higher speeds and see a great increase in use of the internet. American countries Vanu and Parallel have also been tackling this issue with new network plans and innovative ideas to help Africa’s internet networks expand to the vast region. With a projected $160 Billion annual cost to develop and maintain a country wide infrastructure a lot of people believe they need more than just companies to help them [^15]. With no more help from outside countries it looks grim for Africa’s continued growth within the internet unless more companies come try to develop their own system and networks. Looking at **Figures 3** we see how African countries have had a much slower progression towards internet when compared to other countries, **Figure 4** shows America’s progression. **Figure 5** also depicts the current status of Africa and how most countries within Africa are still below 18% of their population using internet within the current day and age. 
 
-![Africa % Change](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/AfricaChange.png)
+![Africa % Change](https://github.com/cybertraining-dsc/fa20-523-334/raw/main/report/images/AfricaChange.png)
 
 **Figure 3:** Seeing these countries all below 50% while major countries are over 70%-80% depicts how far behind Africa is within the internet. We can also see the change and growth of the internet within these countries and compare it to other countries. Comparing it to America’s growth they are nowhere near as explosive or close to being the current rate of America’s internet growth [^17]. 
 
-![America % Change](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/AmericaChange.png)
+![America % Change](https://github.com/cybertraining-dsc/fa20-523-334/raw/main/report/images/AmericaChange.png)
 
 **Figure 4:** America’s growth within the internet [^17].
 
-![Africa Current](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/AfricaPresent.png)
+![Africa Current](https://github.com/cybertraining-dsc/fa20-523-334/raw/main/report/images/AfricaPresent.png)
 
 **Figure 5:** This is the current status of Africa’s internet population percentage. Notice that most countries within Africa are less than 18% while the world population % is greater than 50%. This depicts how far behind Africa is with building their infrastructure [^17]. 
 

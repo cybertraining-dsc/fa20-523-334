@@ -1,5 +1,7 @@
 #  Change of Internet Capabilities Throughout the World
 
+- [ ] geographical challanges are not discussed, you cannot see this from just ooking at data papers
+
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
 Status: final

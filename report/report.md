@@ -94,7 +94,7 @@ Looking at the recent data for World Data Bank we see that African countries hav
 
 ![](images/AfricaPresent.JPG)
 
-**Figure 5:**This is the current status of Africa’s internet population percentage. Notice that most countries within Africa are less than 18% while the world population % is greater than 50%. This depicts how far behind Africa is with building their infrastructure [^17]. 
+**Figure 5:** This is the current status of Africa’s internet population percentage. Notice that most countries within Africa are less than 18% while the world population % is greater than 50%. This depicts how far behind Africa is with building their infrastructure [^17]. 
 
 
 ## 6.3 Summary of Africa’s Internet 

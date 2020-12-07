@@ -1,4 +1,4 @@
-#  Change of internet capabilities throughout the world
+#  Change of Internet Capabilities Throughout the World
 
 
 Matthew Cummings, [fa20-523-334](https://github.com/cybertraining-dsc/fa20-523-334/), [Edit](https://github.com/cybertraining-dsc/fa20-523-334/blob/main/report/report.md)
@@ -23,6 +23,7 @@ Contents
 
 Everyday people throughout the world connect to the internet with speeds never before seen. The internet has not always been this way and for some still is not. The internet started out to be a slow connection of one computer to the other with large machines helping pass the data. This quickly changed to become a vast network of computers all connected to one another and using packet processing systems to transport data. With the internet seen as a new and important technology governments and companies soon started their own development of networks and expansions. These expansions and networks would be the ground work for what we call the internet today. 
 With the United Nations projecting that 90% of the entire population will have internet in 2050 and currently only 50% of the entire population this work will look at how we started this movement and in what areas we need to improve on. Currently about 87% of American’s have access to the internet and use it daily while other countries like Chad only have 6.7% of their population using the internet. This can be seen from the vast resources America used to expand their networks and create the ideal internet connection that other countries want. While other underdeveloped countries are trying to catchup and build their own infrastructure in the modern age. **Figure 1** shows the current statues of the percentage of the population in each country that has internet. Dark blue color is the best with greater than 70% of their population having internet access while the lighter blue is countries whose population is less than 18%.  
+
 ![](images/WorldPresent.JPG)  
 
 **Figure 1:** Shows the current percentage of the worlds population that has/uses internet within each country [^17].   
@@ -46,7 +47,9 @@ Using the World Bank of Data we can analyze how this transition took place throu
 # 5. How America Started the Spread of the Internet
 
 Looking at the data from The World Bank we see that America is at .79% of the population having internet while the entire world as a whole is less than .0495%. The only countries who are close to America is Norway, Canada, Sweden, Finland, and Australia. These countries populations are all less than American’s percentage with Norway the closest at .7%. **Figure 2** shows these percentages and how drastic these differences are with some countries having 0% of their entire population having access to the internet. How is America and these five countries populations have so many more users using the internet compared to the rest of the world?  
+
 ![](images/World1990.JPG)  
+
 **Figure 2:** This figure shows the 1990’s current population % of people accessing the internet [^17].
 
 ## 5.1  America’s Population Data
@@ -97,6 +100,7 @@ With less help from outside countries Africa is almost on their own with decided
 # 7. Conclusion 
  
 After viewing the data and analyzing trends the team saw the large differences between countries with who had an early start within the area of internet development and those countries who are far behind. Analyzing the reason behind this we see that countries who had access to the internet early and were able to take advantage of their early start were able to have a much larger population percentage than the countries who did now. We also see that some countries would get help from outside countries but when those contracts expired they were left out to dry. Seeing America and the vast amount of allies it had in 1990’s-2000’s with their population with access to internet quadrupling those in less developed countries is staggering but when looking behind the data and the reason why we see that some countries are just not as equally equipped and don’t have the infrastructure to compete with other countries networks. With 90% of the population being projected to have access to the internet it will be interesting to see the change in these areas. As we get closed to that 90% it will be these less developed countries who will make staggering changes within their percentage of population compared to the other developed countries. 
+
 ## 7.1 Limitations
 
 With only one large dataset that had all the population sizes and percentages it can be difficult to check the accuracy of the data within the set. The datasets also contained a numerous amount of null data and/or incomplete data for a vast majority of countries. This hindered the ability to further look at the correct trends and analysis of the dataset. With also having not a vast knowledge of data analysis within data the team was not able to analyze the datasets for the planned project. 

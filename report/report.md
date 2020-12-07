@@ -1,9 +1,10 @@
 #  Change of Internet Capabilities Throughout the World
 
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
+Status: final
 
 Matthew Cummings, [fa20-523-334](https://github.com/cybertraining-dsc/fa20-523-334/), [Edit](https://github.com/cybertraining-dsc/fa20-523-334/blob/main/report/report.md)
-[![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
-Status: Final
 
 {{% pageinfo %}}
 

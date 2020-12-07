@@ -13,7 +13,7 @@ Matthew Cummings, [fa20-523-334](https://github.com/cybertraining-dsc/fa20-523-3
 
 {{% pageinfo %}}
 
-# Abstract 
+## Abstract 
 
 In 2050 the United Nations is projecting that 90% of the world will have access to the internet. With the recent pandemic and the shift to most things being online we see how desperate people need internet to be able to do everyday tasks. The internet is a valuable utility and more people are getting access to it every day. We also are seeing more data is being sent over the internet with more than 24,000 Gigabytes being uploaded and processed per second across the entire internet. In this report we look at the progression of the internet and how it has changed over the years.
 
@@ -25,23 +25,23 @@ Contents
 
 **Keywords:** internet, internet development, progression of internet, population, data analysis, big data, government
 
-# 1. Introduction 
+## 1. Introduction 
 
-Everyday people throughout the world connect to the internet with speeds never before seen. The internet has not always been this way and for some countries they are still not at the same speeds. The internet started out to be a slow connection of one computer to the other with large machines helping pass the data. This quickly changed to become a vast network of computers all connected to one another and using packet processing systems to transport data. With the internet seen as a new and important technology governments and companies soon started their own development of networks and expansions. These expansions and networks would be the ground work for what we call the internet today.   
+Everyday people throughout the world connect to the internet with speeds never before seen. The internet has not always been this way and for some countries they are still not at the same speeds. The internet started out to be a slow connection of one computer to the other with large machines helping pass the data. This quickly changed to become a vast network of computers all connected to one another and using packet processing systems to transport data. With the internet seen as a new and important technology governments and companies soon started their own development of networks and expansions. These expansions and networks would be the ground work for what we call the internet today.
 
 With the United Nations projecting that 90% of the entire population will have internet in 2050 and currently only 50% of the entire population [^17] this work will look at how we started this movement and in what areas we need to improve on. Currently about 87% of American’s have access to the internet and use it daily while other countries like Chad only have 6.7% of their population using the internet. This can is from the vast resources America used to expand their networks and create the ideal internet connection that other countries strive to have. While other underdeveloped countries are trying to catchup and build their own infrastructure in the modern age, first world countries, like America, are expanding their networks to be better and more reliable. **Figure 1** shows the current status of the percentage of the population in each country that has internet. Dark blue color is the best with greater than 70% of their population having internet access while the lighter blue is countries whose population is less than 18%.
 
-![](images/WorldPresent.JPG)  
+![Present World Population](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/WorldPresent.png)
 
-**Figure 1:** Shows the current percentage of the worlds population that has/uses internet within each country [^17].   
+**Figure 1:** Shows the current percentage of the worlds population that has/uses internet within each country [^17].
 
-# 2. Background and Current Works
+## 2. Background and Current Works
 
-In 1965 Thomas Merrill and Lawrence G. Roberts started the first ever wide-area computer network ever built. The internet first started out as huge machines that were sizes of small houses that were only capable of transferring small amounts of data or packets as they soon invented. The internet at the time was not even called internet but the Advanced Research Projects Agency Network (ARPANET). This Network backed by the U.S. Department Of Defense used node-to-node communication to send a messages. The first test was a simple test of sending the message of “LOGIN” from one computer to the other. It crashed after “LO” was sent. Following this devastating start improvements were made with the capabilities of that these computers could perform. With data now being sent throughout the network researchers needed to develop a standard on how packets should be sent. This is when the transmission control protocol and internet protocol (TCP/IP) was invented. It was soon adopted into the APARTNET in 1983 and became the standard on how computers should send and process data [^5]. TCP/IP is how packets are sent all over the internet. This system uses the packet-switched network where information is broken into packets and sent to different routers, the IP section of the system, and following the packets it was then put back together on the receiving end and resembled into what it was originally, TCP [^3].   
+In 1965 Thomas Merrill and Lawrence G. Roberts started the first ever wide-area computer network ever built. The internet first started out as huge machines that were sizes of small houses that were only capable of transferring small amounts of data or packets as they soon invented. The internet at the time was not even called internet but the Advanced Research Projects Agency Network (ARPANET). This Network backed by the U.S. Department Of Defense used node-to-node communication to send a messages. The first test was a simple test of sending the message of “LOGIN” from one computer to the other. It crashed after “LO” was sent. Following this devastating start improvements were made with the capabilities of that these computers could perform. With data now being sent throughout the network researchers needed to develop a standard on how packets should be sent. This is when the transmission control protocol and internet protocol (TCP/IP) was invented. It was soon adopted into the APARTNET in 1983 and became the standard on how computers should send and process data [^5]. TCP/IP is how packets are sent all over the internet. This system uses the packet-switched network where information is broken into packets and sent to different routers, the IP section of the system, and following the packets it was then put back together on the receiving end and resembled into what it was originally, TCP [^3].
 
 When the internet was developed there was many different communities and the growth of these communities brought problems. There was no one group or organization that organized these groups and all these communities were on different platforms and areas. This is when the Internet Activities Board (IAB) and Tim Berners-Lee from MIT came together to develop the World Wide Web (WWW) and its primary community of World Wide Web Consortium (W3C). W3C is now the primary group who make protocols and standards for the WWW. This group is still actively watching and helping the WWW to make sure it is growing steadily and supported throughout the internet [^5].
 
-# 3. Dataset 
+## 3. Dataset 
 
 To compare countries internet usage and how many people in each country use the internet two datasets will be used. These datasets will look at the percentage of the population that has internet access [^15] and the percentage of the population that use smartphones [^16] as that is another way people can access the internet. Once the data has been analyzed we looked at why the data is like this and how the data has changed to the way it is now. 
 
@@ -55,9 +55,9 @@ Using the datasets [^15] we can analyze how this transition took place throughou
 
 # 5. How America Started the Spread of the Internet
 
-Looking at the 1990’s data we see that America is at .79% of the population having internet while the entire world as a whole is less than .0495%. The only countries who are close to America is Norway, Canada, Sweden, Finland, and Australia. These countries populations are all less than American’s percentage with Norway the closest at .7%. **Figure 2** shows these percentages and how drastic these differences are with some countries having 0% of their entire population having access to the internet [^15]. How is America and these five countries populations have so many more users using the internet compared to the rest of the world?  
+Looking at the 1990’s data we see that America is at .79% of the population having internet while the entire world as a whole is less than .0495%. The only countries who are close to America is Norway, Canada, Sweden, Finland, and Australia. These countries populations are all less than American’s percentage with Norway the closest at .7%. **Figure 2** shows these percentages and how drastic these differences are with some countries having 0% of their entire population having access to the internet [^15]. How is America and these five countries populations have so many more users using the internet compared to the rest of the world?
 
-![](images/World1990.JPG)  
+![World Population in 1990](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/World1990.png)
 
 **Figure 2:** This figure shows the 1990’s current population % of people accessing the internet [^17].
 
@@ -89,15 +89,15 @@ It started very early with Africa getting the first computer in 1980’s. This c
 
 Looking at the recent data for World Data Bank we see that African countries have been having a comeback with the amount of people using the internet. Currently Africa has seen a large spike in people using the internet. This can be because of all these programs that have helped start its program but it is can also be from two-thirds of the population having phones that can connect to the internet. Africa still has a problem with less than 50% of its entire population having access to internet and a computer. There are still a lot of struggling countries like Niger that only have 5.3% of it is population that use and connect to the internet. Within this day and age having access to the internet is almost critical to survive and be apart of the world. With only 5.3% of their population having internet they are still struggling to have access for everyone. Comparing this to current America with 83% of the population having internet Africa is still far behind the curve of first world countries. This lack of internet has created an opportunity of some people to help or take advantage of Africa’s lack of infrastructure. China’s Company Huawei has agreed to build the first ever 5G network within Africa. This network will help the current population of phone users to connect to higher speeds and see a great increase in use of the internet. American countries Vanu and Parallel have also been tackling this issue with new network plans and innovative ideas to help Africa’s internet networks expand to the vast region. With a projected $160 Billion annual cost to develop and maintain a country wide infrastructure a lot of people believe they need more than just companies to help them [^15]. With no more help from outside countries it looks grim for Africa’s continued growth within the internet unless more companies come try to develop their own system and networks. Looking at **Figures 3** we see how African countries have had a much slower progression towards internet when compared to other countries, **Figure 4** shows America’s progression. **Figure 5** also depicts the current status of Africa and how most countries within Africa are still below 18% of their population using internet within the current day and age. 
 
-![](images/AfricaChange.png)
+![Africa % Change](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/AfricaChange.png)
 
 **Figure 3:** Seeing these countries all below 50% while major countries are over 70%-80% depicts how far behind Africa is within the internet. We can also see the change and growth of the internet within these countries and compare it to other countries. Comparing it to America’s growth they are nowhere near as explosive or close to being the current rate of America’s internet growth [^17]. 
 
-![](images/AmericaChange.jpg)
+![America % Change](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/AmericaChange.png)
 
 **Figure 4:** America’s growth within the internet [^17].
 
-![](images/AfricaPresent.JPG)
+![Africa Current](https://github.com/cybertraining-dsc/fa20-523-334/tree/main/report/images/AfricaPresent.png)
 
 **Figure 5:** This is the current status of Africa’s internet population percentage. Notice that most countries within Africa are less than 18% while the world population % is greater than 50%. This depicts how far behind Africa is with building their infrastructure [^17]. 
 
@@ -118,42 +118,42 @@ With only one large dataset that had all the population sizes and percentages it
 
 The team will continue to analyze these datasets and build their own programs to look see the different trends within these areas and countries. The team wants to keep working on the reason why they trends are happening and how these trends started. It is important to understand the reason behind the data and factors that lead to these data points. As the team progresses through the dataset, the team will continue to understand the factors and reasons within the data.
 
-# 8. Acknowledgements
+## 8. Acknowledgements
 
 The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
-# 9. References
+## 9. References
 
-[^1]: W. F. X. Company, “The Internet in Real Time,” The Internet in Real Time: Web Usage Stats Per Second, 2020. [Online]. Available: https://www.webfx.com/internet-real-time/. [Accessed: 12-Nov-2020].
+[^1]: W. F. X. Company, “The Internet in Real Time,” The Internet in Real Time: Web Usage Stats Per Second, 2020. [Online]. Available: <https://www.webfx.com/internet-real-time/.> [Accessed: 12-Nov-2020].
 
-[^2]: R. Company, “Byte Size Infographic: Visualising data,” redcentric, 03-Feb-2020. [Online]. Available: https://www.redcentricplc.com/resources/byte-size-infographic/. [Accessed: 13-Nov-2020].
+[^2]: R. Company, “Byte Size Infographic: Visualising data,” redcentric, 03-Feb-2020. [Online]. Available: <https://www.redcentricplc.com/resources/byte-size-infographic/.> [Accessed: 13-Nov-2020].
 
-[^3]: B. Company, “TCP/IP,” Encyclopædia Britannica, 2018. [Online]. Available: https://www.britannica.com/technology/TCP-IP. [Accessed: 15-Nov-2020].
+[^3]: B. Company, “TCP/IP,” Encyclopædia Britannica, 2018. [Online]. Available: <https://www.britannica.com/technology/TCP-IP.> [Accessed: 15-Nov-2020].
 
-[^4]: E. Andrews, “Who Invented the Internet?,” History.com, 18-Dec-2013. [Online]. Available: https://www.history.com/news/who-invented-the-internet. [Accessed: 15-Nov-2020].
+[^4]: E. Andrews, “Who Invented the Internet?,” History.com, 18-Dec-2013. [Online]. Available: <https://www.history.com/news/who-invented-the-internet.> [Accessed: 15-Nov-2020].
 
-[^5]: B. Leiner, V. Cerf, D. Clark, R. Kahn, L. Kleinrock, D. Lynch, J. Postel, L. Roberts, and S. Wolff, “Brief History of the Internet,” Internet Society, 14-Aug-1997. [Online]. Available: https://www.internetsociety.org/internet/history-internet/brief-history-internet/. [Accessed: 07-Nov-2020].
+[^5]: B. Leiner, V. Cerf, D. Clark, R. Kahn, L. Kleinrock, D. Lynch, J. Postel, L. Roberts, and S. Wolff, “Brief History of the Internet,” Internet Society, 14-Aug-1997. [Online]. Available: <https://www.internetsociety.org/internet/history-internet/brief-history-internet/.> [Accessed: 07-Nov-2020].
 
-[^6]: G. Mitchell, “How much data is on the internet?,” BBC Science Focus Magazine, 2020. [Online]. Available: https://www.sciencefocus.com/future-technology/how-much-data-is-on-the-internet/. [Accessed: 07-Nov-2020].
+[^6]: G. Mitchell, “How much data is on the internet?,” BBC Science Focus Magazine, 2020. [Online]. Available: <https://www.sciencefocus.com/future-technology/how-much-data-is-on-the-internet/.> [Accessed: 07-Nov-2020].
 
-[^7]: J. Schultz, “How Much Data is Created on the Internet Each Day?,” Micro Focus Blog, 08-Jun-2019. [Online]. Available: https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/. [Accessed: 07-Nov-2020].
+[^7]: J. Schultz, “How Much Data is Created on the Internet Each Day?,” Micro Focus Blog, 08-Jun-2019. [Online]. Available: <https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/.> [Accessed: 07-Nov-2020].
 
-[^8]: B. Marr, “How Much Data Is There In the World?,” Bernard Marr, 2020. [Online]. Available: https://www.bernardmarr.com/default.asp?contentID=1846. [Accessed: 07-Nov-2020].
+[^8]: B. Marr, “How Much Data Is There In the World?,” Bernard Marr, 2020. [Online]. Available: <https://www.bernardmarr.com/default.asp?contentID=1846.> [Accessed: 07-Nov-2020].
 
 [^9]: R. E. Kahn, Revolution in the U.S. information infrastructure. Washington, D.C., DC: National Academy Press, 1995. Chapter The Role Of Government in the Evolution of the Internet [Accessed: 12-Nov-2020].
 
-[^10]: Afrinic Organization, “A Short History of the Internet in Africa (1980-2000),” AFRINIC BLOG, 26-Sep-2016. [Online]. Available: https://afrinic.net/blog/153-a-short-history-of-the-internet-in-africa-1980-2000. [Accessed: 05-Dec-2020].
+[^10]: Afrinic Organization, “A Short History of the Internet in Africa (1980-2000),” AFRINIC BLOG, 26-Sep-2016. [Online]. Available: <https://afrinic.net/blog/153-a-short-history-of-the-internet-in-africa-1980-2000.> [Accessed: 05-Dec-2020].
 
-[^11]: I. F. C. Organization , “Brining Africa Up to High Speed,” Request Rejected, Aug-2019. [Online]. Available: https://www.ifc.org/wps/wcm/connect/news_ext_content/ifc_external_corporate_site/news and events/news/cm-stories/cm-connecting-africa. [Accessed: 05-Dec-2020].
+[^11]: I. F. C. Organization , “Brining Africa Up to High Speed,” Request Rejected, Aug-2019. [Online]. Available: <https://www.ifc.org/wps/wcm/connect/news_ext_content/ifc_external_corporate_site/news> and events/news/cm-stories/cm-connecting-africa. [Accessed: 05-Dec-2020].
 
-[^12]: B. Okunoye, “Building an Internet of Opportunity for Africa,” Council on Foreign Relations, 2018. [Online]. Available: https://www.cfr.org/blog/building-internet-opportunity-africa. [Accessed: 05-Dec-2020].
+[^12]: B. Okunoye, “Building an Internet of Opportunity for Africa,” Council on Foreign Relations, 2018. [Online]. Available: <https://www.cfr.org/blog/building-internet-opportunity-africa.> [Accessed: 05-Dec-2020].
 
-[^13]: I. Society , “History of the Internet in Africa,” Internet Society, 04-Aug-2020. [Online]. Available: https://www.internetsociety.org/internet/history-of-the-internet-in-africa/. [Accessed: 05-Dec-2020].
+[^13]: I. Society , “History of the Internet in Africa,” Internet Society, 04-Aug-2020. [Online]. Available: <https://www.internetsociety.org/internet/history-of-the-internet-in-africa/.> [Accessed: 05-Dec-2020].
 
-[^14]: M. Tuerk, “Africa Is The Next Frontier For The Internet,” Forbes, 08-Jun-2020. [Online]. Available: https://www.forbes.com/sites/miriamtuerk/2020/06/09/africa-is-the-next-frontier-for-the-internet/?sh=c11d53249001. [Accessed: 05-Dec-2020].
+[^14]: M. Tuerk, “Africa Is The Next Frontier For The Internet,” Forbes, 08-Jun-2020. [Online]. Available: <https://www.forbes.com/sites/miriamtuerk/2020/06/09/africa-is-the-next-frontier-for-the-internet/?sh=c11d53249001.> [Accessed: 05-Dec-2020].
 
-[^15]: W. Bank, “Individuals using the Internet (% of population),” Data, 2017. [Online]. Available: https://data.worldbank.org/indicator/IT.NET.USER.ZS?most_recent_value_desc=true. [Accessed: 07-Oct-2020].
+[^15]: W. Bank, “Individuals using the Internet (% of population),” Data, 2017. [Online]. Available: <https://data.worldbank.org/indicator/IT.NET.USER.ZS?most_recent_value_desc=true.> [Accessed: 07-Oct-2020].
 
-[^16]: W. Bank, “Mobile cellular subscriptions (per 100 people),” Data, 2017. [Online]. Available: https://data.worldbank.org/indicator/IT.CEL.SETS.P2?most_recent_value_desc=true. [Accessed: 07-Oct-2020].
+[^16]: W. Bank, “Mobile cellular subscriptions (per 100 people),” Data, 2017. [Online]. Available: <https://data.worldbank.org/indicator/IT.CEL.SETS.P2?most_recent_value_desc=true.> [Accessed: 07-Oct-2020].
 
-[^17]: Figures used from The Data World Bank. W. Bank, “Individuals using the Internet (% of population),” Data, 2017. [Online]. Available: https://data.worldbank.org/indicator/IT.NET.USER.ZS?most_recent_value_desc=true. [Accessed: 07-Oct-2020].
+[^17]: Figures used from The Data World Bank. W. Bank, “Individuals using the Internet (% of population),” Data, 2017. [Online]. Available: <https://data.worldbank.org/indicator/IT.NET.USER.ZS?most_recent_value_desc=true.> [Accessed: 07-Oct-2020].

@@ -3,6 +3,7 @@
 - [ ] geographical challanges are not discussed, you cannot see this from just looking at data papers
 - [ ] structure of the paper coudl be improved
 - [ ] paper almost reads like two papers, why chose africa and not Asiz, pacific islands, your title is "world"
+- [ ] Fig. 3 no details are given, figure does not have country names in it
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)

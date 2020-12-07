@@ -1,16 +1,9 @@
 #  Change of internet capabilities throughout the world
 
-- [ ] please use our format
-- [ ] please improve structure of document
-- [ ] what is progress?
-- [ ] refernces missing
-- [ ] background missing
-- [ ] dataset description missing
-- [ ] use numbered sections
 
 Matthew Cummings, [fa20-523-334](https://github.com/cybertraining-dsc/fa20-523-334/), [Edit](https://github.com/cybertraining-dsc/fa20-523-334/blob/main/report/report.md)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
-Status: in progress
+Status: Final
 
 {{% pageinfo %}}
 
@@ -103,7 +96,7 @@ With less help from outside countries Africa is almost on their own with decided
 
 # 7. Conclusion 
  
-After viewing the data and analyzing trends the team saw the large differences between countries with who had an early start within the area of internet development and those countries who are far behind. Analyzing the reason behind this we see that countries who had access to the internet early and were able to take advantage of their early start were able to have a much larger population percentage than the countries who did now. We also see that some countries would get help from outside countries but when those contracts expired they were left out to dry. Seeing America and the vast amount of allies it had in 1990’s-2000’s with their population  with access to internet quadrupling those in 
+After viewing the data and analyzing trends the team saw the large differences between countries with who had an early start within the area of internet development and those countries who are far behind. Analyzing the reason behind this we see that countries who had access to the internet early and were able to take advantage of their early start were able to have a much larger population percentage than the countries who did now. We also see that some countries would get help from outside countries but when those contracts expired they were left out to dry. Seeing America and the vast amount of allies it had in 1990’s-2000’s with their population with access to internet quadrupling those in less developed countries is staggering but when looking behind the data and the reason why we see that some countries are just not as equally equipped and don’t have the infrastructure to compete with other countries networks. With 90% of the population being projected to have access to the internet it will be interesting to see the change in these areas. As we get closed to that 90% it will be these less developed countries who will make staggering changes within their percentage of population compared to the other developed countries. 
 ## 7.1 Limitations
 
 With only one large dataset that had all the population sizes and percentages it can be difficult to check the accuracy of the data within the set. The datasets also contained a numerous amount of null data and/or incomplete data for a vast majority of countries. This hindered the ability to further look at the correct trends and analysis of the dataset. With also having not a vast knowledge of data analysis within data the team was not able to analyze the datasets for the planned project. 

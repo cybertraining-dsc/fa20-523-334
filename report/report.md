@@ -29,8 +29,9 @@ Contents
 # 1. Introduction 
 
 Everyday people throughout the world connect to the internet with speeds never before seen. The internet has not always been this way and for some still is not. The internet started out to be a slow connection of one computer to the other with large machines helping pass the data. This quickly changed to become a vast network of computers all connected to one another and using packet processing systems to transport data. With the internet seen as a new and important technology governments and companies soon started their own development of networks and expansions. These expansions and networks would be the ground work for what we call the internet today. 
-With the United Nations projecting that 90% of the entire population will have internet in 2050 and currently only 50% of the entire population this work will look at how we started this movement and in what areas we need to improve on. Currently about 87% of American’s have access to the internet and use it daily while other countries like Chad only have 6.7% of their population using the internet. This can be seen from the vast resources America used to expand their networks and create the ideal internet connection that other countries want. While other underdeveloped countries are trying to catchup and build their own infrastructure in the modern age. **Figure 1** shows the current statues of the percentage of the population in each country that has internet. Dark blue color is the best with greater than 70% of their population having internet access while the lighter blue is countries whose population is less than 18%.
-![](images/WorldPresent.JPG)
+With the United Nations projecting that 90% of the entire population will have internet in 2050 and currently only 50% of the entire population this work will look at how we started this movement and in what areas we need to improve on. Currently about 87% of American’s have access to the internet and use it daily while other countries like Chad only have 6.7% of their population using the internet. This can be seen from the vast resources America used to expand their networks and create the ideal internet connection that other countries want. While other underdeveloped countries are trying to catchup and build their own infrastructure in the modern age. **Figure 1** shows the current statues of the percentage of the population in each country that has internet. Dark blue color is the best with greater than 70% of their population having internet access while the lighter blue is countries whose population is less than 18%.  
+![](images/WorldPresent.JPG)  
+
 **Figure 1:** Shows the current percentage of the worlds population that has/uses internet within each country [^17].   
 
 # 2. Background and Current Works
@@ -51,9 +52,10 @@ Using the World Bank of Data we can analyze how this transition took place throu
 
 # 5. How America Started the Spread of the Internet
 
-Looking at the data from The World Bank we see that America is at .79% of the population having internet while the entire world as a whole is less than .0495%. The only countries who are close to America is Norway, Canada, Sweden, Finland, and Australia. These countries populations are all less than American’s percentage with Norway the closest at .7%. **Figure 2** shows these percentages and how drastic these differences are with some countries having 0% of their entire population having access to the internet. How is America and these five countries populations have so many more users using the internet compared to the rest of the world?
-![](images/World1990.JPG)
+Looking at the data from The World Bank we see that America is at .79% of the population having internet while the entire world as a whole is less than .0495%. The only countries who are close to America is Norway, Canada, Sweden, Finland, and Australia. These countries populations are all less than American’s percentage with Norway the closest at .7%. **Figure 2** shows these percentages and how drastic these differences are with some countries having 0% of their entire population having access to the internet. How is America and these five countries populations have so many more users using the internet compared to the rest of the world?  
+![](images/World1990.JPG)  
 **Figure 2:** This figure shows the 1990’s current population % of people accessing the internet [^17].
+
 ## 5.1  America’s Population Data
 
 With the WWW being developed and deployed within America it makes sense that America would be the first country to expand their internet and have a larger portion of their population using the internet over the rest of the world. The dramatic difference of America having .79% of their population over the worlds .0495%, America was able to drastically take advantage of their early start and develop it to their needs. When looking at the world’s population with internet compared to America’s, American population with internet accounts for more than half of the world’s population with internet, with America’s population being 250 million in 1990’s and .79% of their population having internet that means 1.975 million people had internet in America while only 2.614 million globally had internet. America at the time was a leader in the world on internet and it is interesting how it got there. 
@@ -81,12 +83,19 @@ It started very early with Africa getting the first computer in 1980’s. This c
 ## 6.2 Current Trends and Future for Africa
 
 Looking at the recent data for World Data Bank we see that African countries have been having a comeback with the amount of people using the internet. Currently Africa has seen a large spike in people using the internet. This can be because of all these programs that have helped start its program but it is can also be from two-thirds of the population having phones that can connect to the internet. Africa still has a problem with less than 50% of its entire population having access to internet and a computer. There are still a lot of struggling countries like Niger that only have 5.3% of it is population that use and connect to the internet. Within this day and age having access to the internet is almost critical to survive and be apart of the world. With only 5.3% of their population having internet they are still struggling to have access for everyone. Comparing this to current America with 83% of the population having internet Africa is still far behind the curve of first world countries. This lack of internet has created an opportunity of some people to help or take advantage of Africa’s lack of infrastructure. China’s Company Huawei has agreed to build the first ever 5G network within Africa. This network will help the current population of phone users to connect to higher speeds and see a great increase in use of the internet. American countries Vanu and Parallel have also been tackling this issue with new network plans and innovative ideas to help Africa’s internet networks expand to the vast region. With a projected $160 Billion annual cost to develop and maintain a country wide infrastructure a lot of people believe they need more than just companies to help them [^15]. With no more help from outside countries it looks grim for Africa’s continued growth within the internet unless more companies come try to develop their own system and networks. Looking at **Figures 3** we see how African countries have had a much slower progression towards internet when compared to other countries, **Figure 4** shows America’s progression. **Figure 5** also depicts the current status of Africa and how most countries within Africa are still below 18% of their population using internet within the current day and age. 
-![](images/AfricaChange.JPG)
+
+![](images/AfricaChange.PNG)
+
 **Figure 3:** Seeing these countries all below 50% while major countries are over 70%-80% depicts how far behind Africa is within the internet. We can also see the change and growth of the internet within these countries and compare it to other countries. Comparing it to America’s growth they are nowhere near as explosive or close to being the current rate of America’s internet growth [^17]. 
+
 ![](images/AmericaChange.JPG)
+
 **Figure 4:** America’s growth within the internet [^17].
+
 ![](images/AfricaPresent.JPG)
+
 **Figure 5:**This is the current status of Africa’s internet population percentage. Notice that most countries within Africa are less than 18% while the world population % is greater than 50%. This depicts how far behind Africa is with building their infrastructure [^17]. 
+
 
 ## 6.3 Summary of Africa’s Internet 
 

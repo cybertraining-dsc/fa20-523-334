@@ -7,7 +7,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
-Status: final
+Status: final, Type: Report
 
 Matthew Cummings, [fa20-523-334](https://github.com/cybertraining-dsc/fa20-523-334/), [Edit](https://github.com/cybertraining-dsc/fa20-523-334/blob/main/report/report.md)
 

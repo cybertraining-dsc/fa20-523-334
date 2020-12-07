@@ -1,6 +1,8 @@
 #  Change of Internet Capabilities Throughout the World
 
-- [ ] geographical challanges are not discussed, you cannot see this from just ooking at data papers
+- [ ] geographical challanges are not discussed, you cannot see this from just looking at data papers
+- [ ] structure f the paper coudl be improved
+- [ ] paper almost reads like two papers, why chose africa and not Asiz, pacific islands, your title is "world"
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)

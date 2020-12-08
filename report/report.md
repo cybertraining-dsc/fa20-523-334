@@ -1,7 +1,5 @@
 #  Change of Internet Capabilities Throughout the World
 
-- [ ] paper almost reads like two papers, why chose africa and not Asiz, pacific islands, your title is "world"
-
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
 Status: final, Type: Report

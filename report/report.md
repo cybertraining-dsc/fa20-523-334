@@ -97,7 +97,11 @@ It started very early with Africa getting the first computer in 1980’s. This c
 
 ### 6.2 Africa’s Geographical Problems 
 
+Africa’s geography is causing similar problems to their internet distribution just like America’s. Africa is a ginormous continent with an area of 11.73 million miles^2. With that much land it can be hard to cover this entire continent with internet and provide people in rural areas with internet. About one third of the population is out of reach of all mobile broadband reach and can not get access to any internet. To cover this land Africa needs to invest an more infrastructure to cover this land with 250,000 base stations and 250,000 kilometers of fiber. Africa’s population is spread out throughout the whole country, based on **Figure 4** we see all the connections and networks throughout Africa there are. It is estimated that 45% of African’s are to far away from any fiber network to connect to the internet. These areas with no networks or infrastructure are areas with low populations and not hotspots or major cities. This problem might not be solved for a while as companies will focus on hotspots rather than helping people in need to access the internet. One of the more recent developments that might help Africa is the SpaceX Satellite internet [^21]. This can help them as they wont need the vast infrastructure to create the network and the connection will be able to reach all over the continent. Africa’s geography  limits people connection based on where they live and if they are near the water to connect the submerged connections. With more investment and new inventions we could see this geographical challenge tackled within 20 years.
 
+![Africa Geography](https://github.com/cybertraining-dsc/fa20-523-334/raw/main/report/images/AfricaGeo.png)
+
+**Figure 4:** Seeing the hotspots throughout the continent and where the internet access is shows the disparity of rural vs urban living. Hotspots of populations are targeted more for internet connection as it makes sense for companies financially to target those areas. This creates a large divide for areas inside the continent who do not have networks or any chance of connecting to the networks. This figure shows how this disparity is present within Africa.
 
 ### 6.3 Current Trends and Future for Africa
 
@@ -176,3 +180,5 @@ The author would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and t
 [^19]: B. A. R. Association, "Expanding Broadband Access to Rural Communities," American Bar Association, 2020. [Online]. Available: <https://www.americanbar.org/advocacy/governmental_legislative_work/publications/washingtonletter/march-washington-letter-2020/broadband-032020/.> [Accessed: 07-Dec-2020].
 
 [^20]: FCC, "Fixed Broadband Deployment", FCC, 2020 [online]. Available: <https://broadbandmap.fcc.gov/#/area-summary?version=dec2019&type=nation&geoid=0&tech=acfosw&speed=25_3&vlat=39.40549184229633&vlon=-99.73724455499007&vzoom=2.987482657657667> [Accessed: 07-Dec-2020]. Map layer based on FCC Form 477
+
+[^21]: R. Fukui, C. J. Arderne, and T. Kelly, "Africa's connectivity gap: Can a map tell the story?," World Bank Blogs, 07-Nov-2019. [Online]. Available: <https://blogs.worldbank.org/digital-development/africas-connectivity-gap-can-map-tell-story.> [Accessed: 08-Dec-2020]. 

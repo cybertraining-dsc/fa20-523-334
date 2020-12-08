@@ -83,7 +83,7 @@ One of the largest challenges with the spread of the internet in the United Stat
 
 **Figure 3:** This image shows the broadband capabilities throughout the nation. The legend below the picture depicts what each color means. We see from this chart that all urban areas have more than 12 high speed broadband providers will rural areas mostly have 1-2 options. This is the challenge for rural America when they are stuck with one option and that option can sometimes not even provide the fastest internet and will also be expensive [^20].
 
-### 5.4 Summary of America’s Internet
+### 5.5 Summary of America’s Internet
 
 Without the direct involvement of the United States Government the internet would have had a slower progression than the one we are seeing today. Without the military and the NSF the internet would not have been the same and could have looked a lot different. We would not have had the same widespread start without all the military bases having all the required infrastructure for the internet and we would not have had the required needs for the internet because of the vast contracts that the military supplied. This is how America was able to be so far ahead of the rest of the World and why the American allies were able to also build up their own infrastructure and take advantage of the infrastructure supplied by America. We also would have had a lot slower internet if it was not for America and the connection of the super computers on the networks. 
 

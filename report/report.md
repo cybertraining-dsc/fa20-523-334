@@ -3,7 +3,7 @@ date: 2021-03-15
 title: Change of Internet Capabilities Throughout the World
 linkTitle: 
 tags: ["report", "ai", "cloud"]
-description: Change of Internet Capabilities Throughout the World
+description: "In 2050 the United Nations is projecting that 90% of the world will have access to the internet. With the recent pandemic and the shift to most things being online we see how desperate people need internet to be able to do everyday tasks. The internet is a valuable utility and more people are getting access to it every day. We also are seeing more data is being sent over the internet with more than 24,000 Gigabytes being uploaded and processed per second across the entire internet. In this report we look at the progression of the internet and how it has changed over the years."
 author: Matthew Cummings
 resources:
 - src: "**.{png,jpg}"

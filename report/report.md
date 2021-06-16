@@ -1,4 +1,14 @@
-#  Change of Internet Capabilities Throughout the World
+---
+date: 2021-03-15
+title: Change of Internet Capabilities Throughout the World
+linkTitle: 
+tags: ["report", "ai", "cloud"]
+description: Change of Internet Capabilities Throughout the World
+author: Matthew Cummings
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-334/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-334/actions)
